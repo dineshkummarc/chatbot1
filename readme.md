@@ -28,5 +28,5 @@ user: admin
 pass: admin123
 
 
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
+****** https://www.youtube.com/@theyashanyketshow ******
+Subcribe my Youtube Channel **** https://www.youtube.com/@theyashanyketshow ****
